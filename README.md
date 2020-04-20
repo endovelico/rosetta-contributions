@@ -3,6 +3,9 @@ My contributions to Rosetta code in an assortment of languages.
 
 ## Branching
 - Each public branch will be a different language, with different submissions for the rosetta code challenges and implementations.
+- Each language branch will have a [language]- development branching off it where stuff is being changed until complete and stable.
+- [language] branch will have the stable implementations for the challenges in the purposed language.
+- After changes are accepted into Rosetta code or no longer needed (maybe a new better implementation comes up) its merged back to master.
 
 ## Languages
 - Most challenges will be done in Rockstar and tested in
