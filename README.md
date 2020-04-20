@@ -4,7 +4,7 @@ My contributions to Rosetta code in an assortment of languages.
 ## Branching
 - Each public branch will be a different language, with different submissions for the rosetta code challenges and implementations.
 
-# Languages
+## Languages
 - Most challenges will be done in Rockstar and tested in
 https://palfrey.github.io/maiden/
 and 
